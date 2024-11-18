@@ -1,0 +1,2 @@
+a good test is worth a thousand test
+since a good test drives performance
